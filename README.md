@@ -46,5 +46,4 @@ Since this repository focuses on the *analysis output* and *data availability*:
 2. **Practice:** You can download the dataset from the `Data/` folder to perform your own analysis or replicate the dashboard.
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/tushar-dhumal/
