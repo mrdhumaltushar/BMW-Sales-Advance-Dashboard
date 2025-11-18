@@ -1,16 +1,16 @@
 # 🏎️ Global BMW Sales Analysis Dashboard
 
 ## 📄 Project Overview
-This project involves a comprehensive analysis of BMW's global sales data, covering over **253 Million records** and **$19 Trillion in revenue**. 
+This project involves a comprehensive analysis of BMW's global sales data, covering a massive dataset of sales records and total revenue figures.
 
 The goal was to transform raw sales data into actionable business intelligence, identifying key revenue drivers, regional performance trends, and the impact of fuel type shifts on global sales.
 
 ## 📊 Key Insights Uncovered
-- **Global Scale:** Analyzed a total sales volume of **253M Units** across 6 major regions.
-- **Top Performers:** The **7 Series** is the highest revenue-generating model, proving luxury demand remains strong.
-- **Regional Dominance:** **Asia** leads in total sales volume, outperforming Europe and North America.
+- **Global Scale:** Analyzed extensive sales volume across major global regions.
+- **Top Performers:** The **7 Series** emerged as the highest revenue-generating model, proving luxury demand remains strong.
+- **Regional Dominance:** **Asia** leads the global market in total sales volume, outperforming Europe and North America.
 - **Sustainability Shift:** **Hybrid** vehicles have emerged as a top revenue category, signaling a successful transition toward green energy.
-- **Market Recovery:** Identified a strong **7.2% Year-Over-Year growth** in 2024, marking a significant post-dip recovery.
+- **Market Recovery:** Identified a strong positive trend in Year-Over-Year growth in the most recent fiscal year, marking a significant post-dip recovery.
 
 ## 🛠️ Tools Used
 - **Power BI:** Used for dashboarding, DAX calculations, and data modeling.
