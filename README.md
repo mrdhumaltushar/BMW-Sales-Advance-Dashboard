@@ -5,6 +5,8 @@ This project involves a comprehensive analysis of BMW's global sales data, cover
 
 The goal was to transform raw sales data into actionable business intelligence, identifying key revenue drivers, regional performance trends, and the impact of fuel type shifts on global sales.
 
+![Executive Overview](https://github.com/mrdhumaltushar/BMW-Sales-Advance-Dashboard/blob/main/Dashboard%20Page%201.png)
+
 ## 📊 Key Insights Uncovered
 - **Global Scale:** Analyzed extensive sales volume across major global regions.
 - **Top Performers:** The **7 Series** emerged as the highest revenue-generating model, proving luxury demand remains strong.
@@ -18,13 +20,18 @@ The goal was to transform raw sales data into actionable business intelligence, 
 - **Excel/CSV:** Raw data storage.
 
 ## 📷 Dashboard Previews
-*(You can insert screenshots of your PDF pages here for a quick preview)*
 
-### Executive Overview
+### 1. Executive Overview
 *Provides a high-level view of Total Revenue, Units Sold, and Profit Margins.*
+![Executive Overview](https://github.com/mrdhumaltushar/BMW-Sales-Advance-Dashboard/blob/main/Dashboard%20Page%201.png)
 
-### Regional Segmentation
-*Deep dive into sales performance by Region (Asia, Europe, NA) and Fuel Type.*
+### 2. Product & Vehicle Strategy
+*Analysis of Fuel Types, Engine Sizes, and Pricing Strategies.*
+![Product Strategy](https://github.com/mrdhumaltushar/BMW-Sales-Advance-Dashboard/blob/main/Dashboard%20Page%202.png)
+
+### 3. Regional & Customer Segmentation
+*Deep dive into sales performance by Region (Asia, Europe, NA) and Customer preferences.*
+![Regional Segmentation](https://github.com/mrdhumaltushar/BMW-Sales-Advance-Dashboard/blob/main/Dashboard%20Page%203.png)
 
 ---
 
